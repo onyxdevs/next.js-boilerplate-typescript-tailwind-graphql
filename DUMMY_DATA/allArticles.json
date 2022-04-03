@@ -1,0 +1,217 @@
+{
+    "data": {
+        "allArticles": [
+            {
+                "createdAt": "2021-06-21T12:25:55Z",
+                "id": "44201755",
+                "publisher": {
+                    "createdAt": "2021-06-21T12:15:05Z",
+                    "id": "44200585",
+                    "logo": {
+                        "url": "https://www.datocms-assets.com/50046/1624277699-thewashingtonpostlogonewspaper.png"
+                    },
+                    "name": "The Washington Post"
+                },
+                "image": {
+                    "alt": null,
+                    "author": null,
+                    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoPCAgOCg0LDg8ODg0KDSYNDQ0NFxYZGCITFiEaHysjGh0oHSEiJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OFhAQHC8oIh0vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIAA4AGAMBIgACEQEDEQH/xAAYAAACAwAAAAAAAAAAAAAAAAAABAIDBv/EABwQAAIDAAMBAAAAAAAAAAAAAAABAgMEEhMxBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAFBEf/aAAwDAQACEQMRAD8AzCr4l8KO2Igr5SY/ntaiWknr+amBPdrlFeANi5H/2Q==",
+                    "copyright": null,
+                    "filename": "118736877chinaepa.jpg",
+                    "format": "jpg",
+                    "height": 549,
+                    "id": "17996685",
+                    "mimeType": "image/jpeg",
+                    "size": 68459,
+                    "title": null,
+                    "url": "https://www.datocms-assets.com/50046/1624278349-118736877chinaepa.jpg",
+                    "width": 976
+                },
+                "categories": [],
+                "hosted": true,
+                "content": "**China has announced that it will allow couples to have up to three children, after census data showed a steep decline in birth rates.**\n\nChina scrapped its decades-old one-child policy in 2016, replacing it with a two-child limit which has failed to lead to a sustained upsurge in births.\n\nThe cost of raising children in cities has deterred many Chinese couples.\n\nThe latest move was approved by President Xi Jinping at a meeting of top Communist Party officials.\n\nIt will come with \"supportive measures, which will be conducive to improving our country's population structure, fulfilling the country's strategy of actively coping with an ageing population and maintaining the advantage, endowment of human resources\", according to Xinhua news agency.\n\nBut human rights organisation Amnesty International said the policy, like its predecessors, was still a violation of sexual and reproductive rights.\n\n\"Governments have no business regulating how many children people have. Rather than 'optimising' its birth policy, China should instead respect people's life choices and end any invasive and punitive controls over people's family planning decisions,\" said the group's China team head, Joshua Rosenzweig.\n\nAlso, some experts were sceptical of the impact.\n\n\"If relaxing the birth policy was effective, the current two-child policy should have proven to be effective too,\" Hao Zhou, a senior economist at Commerzbank, told Reuters news agency.\n\n\"But who wants to have three kids? Young people could have two kids at most. The fundamental issue is living costs are too high and life pressures are too huge.\"\nline\nAnalysis box by Stephen McDonell, China correspondent\n\nOn a rainy, bleak day in Beijing I was out buying a coffee when the news broke.\n\nPeople started looking down at their phones as they beeped and whirred with the headline flashing across their screens - China to allow couples to have three children.\n\nThis is big news in a country which didn't start suddenly producing more babies when the one-child policy eased off to two.\n\nIn fact, many are asking how a three-child policy might mean more children when the two-child version didn't and why birth restrictions have remained here at all given the demographic trend.\n\nVery good questions.\n\nOne thought is that, among those prepared to have two children, at least some parents will have three.\n\nHowever, I have interviewed many young Chinese couples about this subject and it is hard to find those who want bigger families these days.\n\nGenerations of Chinese people have lived without siblings and are used to small families - affluence has meant less need for multiple children to become family-supporting workers, and young professionals say they'd rather give one child more advantages than spread their income among several kids.\n\n## What did the census say?\n\nThe census, released this month, showed that around 12 million babies were born last year - a significant decrease from the 18 million in 2016, and the lowest number of births recorded since the 1960s.\n\nThe census was conducted in late 2020 - some seven million census takers had gone door to door to collect information from households.",
+                "sourceUrl": "https://www.bbc.com/news/world-asia-china-57303592",
+                "publicationDate": "2021-05-31",
+                "slug": "china-allows-three-children-in-major-policy-shift",
+                "title": "China allows three children in major policy shift!"
+            },
+            {
+                "createdAt": "2021-06-21T13:01:35Z",
+                "id": "44207088",
+                "publisher": {
+                    "createdAt": "2021-06-21T12:12:25Z",
+                    "id": "44200523",
+                    "logo": {
+                        "url": "https://www.datocms-assets.com/50046/1624277539-thenewyorktimeslogo.png"
+                    },
+                    "name": "New York Times"
+                },
+                "image": null,
+                "categories": [],
+                "hosted": false,
+                "content": "",
+                "sourceUrl": "https://www.nytimes.com/interactive/2021/health/coronavirus-variant-tracker.html",
+                "publicationDate": "2021-06-01",
+                "slug": "coronavirus-variants-and-mutations",
+                "title": "Coronavirus Variants and Mutations"
+            },
+            {
+                "createdAt": "2021-06-21T12:29:40Z",
+                "id": "44202209",
+                "publisher": {
+                    "createdAt": "2021-06-21T12:12:25Z",
+                    "id": "44200523",
+                    "logo": {
+                        "url": "https://www.datocms-assets.com/50046/1624277539-thenewyorktimeslogo.png"
+                    },
+                    "name": "New York Times"
+                },
+                "image": null,
+                "categories": [
+                    {
+                        "id": "44200704",
+                        "name": "Business",
+                        "updatedAt": "2021-06-21T12:18:25Z"
+                    },
+                    {
+                        "id": "44200757",
+                        "name": "Food Industry",
+                        "updatedAt": "2021-06-21T12:19:36Z"
+                    }
+                ],
+                "hosted": false,
+                "content": "",
+                "sourceUrl": "https://www.nytimes.com/2021/05/18/business/oatly-ipo-milk-substitutes.html",
+                "publicationDate": "2021-05-18",
+                "slug": "the-big-money-is-going-vegan",
+                "title": "The Big Money Is Going Vegan"
+            },
+            {
+                "createdAt": "2021-06-21T12:28:29Z",
+                "id": "44201931",
+                "publisher": {
+                    "createdAt": "2021-06-21T12:26:56Z",
+                    "id": "44201806",
+                    "logo": {
+                        "url": "https://www.datocms-assets.com/50046/1624278410-1200px-financialtimescorporatelogo-nobackground-svg.png"
+                    },
+                    "name": "Financial Times"
+                },
+                "image": null,
+                "categories": [
+                    {
+                        "id": "44200704",
+                        "name": "Business",
+                        "updatedAt": "2021-06-21T12:18:25Z"
+                    },
+                    {
+                        "id": "44200706",
+                        "name": "Social Justice",
+                        "updatedAt": "2021-06-21T12:18:43Z"
+                    },
+                    {
+                        "id": "44200745",
+                        "name": "Carbon Pricing",
+                        "updatedAt": "2021-06-21T12:19:27Z"
+                    }
+                ],
+                "hosted": true,
+                "content": "## Euntem est semina\n\nLorem markdownum debueram quem ultra mihi egreditur cura, tanta hostes ponto\nnulla, excipit. Ignavi latus, cornibus cessantem natumque oculis roganti cervus?\n\n1. It funibus animalia casa\n2. Est proles viderunt Caune sua simul\n3. Officiumque flaventibus carinae veneni in Cinyphius arbor\n\n## Trepidare dixit sed fruatur\n\nFibras nata generi virides mea pectora tuta, coniunx fretaque advertere nunc\ncervus, occidit faciemque Alpes. Dilexit molire sistunt quisquam manibus\ncalentes daret, ille formamque pater. Plenaque barbae Babylonia domum, Venus\nsparsosque neque, dea non procul, Panthoides a femina sonantem quoque. Umbrae\nuti quo praefertur annis ferebat. Patriam et oculos vultus?\n\n## Quid amore vel voluit\n\nSilent nunc prima quod Phaethon Pandione sua hic ortos de quae quidem tamen est.\nDilectus Isthmo oris hamatis est fores quoniam tum aureus carmen!\n\n> Helenum luna licet mactas aestus sorores gelidi quamquam simplex pastoribus\n> mollit membra, et, expetit. In cogeris terra, venti ultra, profanus nec\n> cessent, mea sors?",
+                "sourceUrl": "https://www.ft.com/content/a4e3791b-9d9e-4bf9-ae74-fe1cf1980625",
+                "publicationDate": "2021-06-01",
+                "slug": "who-will-pay-europe-s-bold-plan-on-emissions-risks-political-blowback",
+                "title": "Who will pay? Europe’s bold plan on emissions risks political blowback"
+            },
+            {
+                "createdAt": "2021-06-21T12:23:29Z",
+                "id": "44200854",
+                "publisher": {
+                    "createdAt": "2021-06-21T12:16:10Z",
+                    "id": "44200644",
+                    "logo": {
+                        "url": "https://www.datocms-assets.com/50046/1624277757-thomsonreuterslogo-svg.png"
+                    },
+                    "name": "Reuters"
+                },
+                "image": {
+                    "alt": null,
+                    "author": null,
+                    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgLCgoXDiEVFQ0NGRYQFhUVFx0ZGBYfFhUmHysjGh0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHBAQHC8oIigvNTsvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABAAGAMBIgACEQEDEQH/xAAXAAEAAwAAAAAAAAAAAAAAAAAGAAQF/8QAHBAAAQQDAQAAAAAAAAAAAAAAAgABBBEFEyMh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAZEQACAwEAAAAAAAAAAAAAAAACAwABESH/2gAMAwEAAhEDEQA/AFsoaFZZSRA6d1amSeboblso8c3e0ZIuyiizmxTvE28dRFYGa2jdqKZqMKMJ7U//2Q==",
+                    "copyright": null,
+                    "filename": "jtupyjfbbjlrxboevby42qaxjq.webp",
+                    "format": "webp",
+                    "height": 800,
+                    "id": "17996233",
+                    "mimeType": "image/webp",
+                    "size": 100080,
+                    "title": null,
+                    "url": "https://www.datocms-assets.com/50046/1624278185-jtupyjfbbjlrxboevby42qaxjq.webp",
+                    "width": 1200
+                },
+                "categories": [
+                    {
+                        "id": "44200736",
+                        "name": "Israel",
+                        "updatedAt": "2021-06-21T12:19:15Z"
+                    },
+                    {
+                        "id": "44200703",
+                        "name": "Politics",
+                        "updatedAt": "2021-06-21T12:18:20Z"
+                    }
+                ],
+                "hosted": false,
+                "content": "",
+                "sourceUrl": "https://www.reuters.com/world/middle-east/netanyahus-disparate-rivals-try-nail-down-pact-unseat-him-2021-05-31/",
+                "publicationDate": "2021-05-31",
+                "slug": "netanyahu-s-disparate-rivals-try-to-nail-down-pact-to-unseat-him",
+                "title": "Netanyahu's disparate rivals try to nail down pact to unseat him"
+            },
+            {
+                "createdAt": "2021-06-21T12:21:57Z",
+                "id": "44200842",
+                "publisher": {
+                    "createdAt": "2021-06-21T12:15:20Z",
+                    "id": "44200601",
+                    "logo": {
+                        "url": "https://www.datocms-assets.com/50046/1624277715-euronews2016logo-svg.png"
+                    },
+                    "name": "Euronews"
+                },
+                "image": {
+                    "alt": null,
+                    "author": null,
+                    "blurUpThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgLCgoLDh4OFRUNDh0dFhUVHB8lIiITFhwiLysjHR0oHRUWJTUlKC0vMjIyHSI4PTcwPCsxMi8BCgsLDg0OHBAQHDsoIig7Ozs7Ozs7Ozs7Ozs7LzU7Ozs1Lzs7Ozs7Ly87Oy8vLzU7Lzs7Ly8vLy8vOy8vLzUvL//AABEIAA4AGAMBIgACEQEDEQH/xAAWAAEBAQAAAAAAAAAAAAAAAAAGBQH/xAAfEAABAwQDAQAAAAAAAAAAAAABAAIDBAYykSExgRL/xAAVAQEBAAAAAAAAAAAAAAAAAAAEAf/EABkRAAIDAQAAAAAAAAAAAAAAAAIDAAEREv/aAAwDAQACEQMRAD8AZVdQwsPIUGeVn32i1RdM4bidqabkme7E7SEkVt5GS3LBelH0Qa8drEGZdM8XBaT6tTjE9ghaBVs//9k=",
+                    "copyright": null,
+                    "filename": "773x435cmsv27b0ae9b5-322b-5da7-83de-05c1daeea8e7-5712040.jpg",
+                    "format": "jpg",
+                    "height": 435,
+                    "id": "17996228",
+                    "mimeType": "image/jpeg",
+                    "size": 48425,
+                    "title": null,
+                    "url": "https://www.datocms-assets.com/50046/1624278110-773x435cmsv27b0ae9b5-322b-5da7-83de-05c1daeea8e7-5712040.jpg",
+                    "width": 773
+                },
+                "categories": [
+                    {
+                        "id": "44200735",
+                        "name": "NSA Scandal",
+                        "updatedAt": "2021-06-21T12:19:06Z"
+                    },
+                    {
+                        "id": "44200703",
+                        "name": "Politics",
+                        "updatedAt": "2021-06-21T12:18:20Z"
+                    }
+                ],
+                "hosted": false,
+                "content": "",
+                "sourceUrl": "https://www.euronews.com/2021/05/31/did-denmark-help-the-u-s-spy-on-european-leaders",
+                "publicationDate": "2021-06-01",
+                "slug": "did-denmark-help-the-us-spy-on-european-leaders",
+                "title": "Did Denmark help the US spy on European leaders?"
+            }
+        ]
+    }
+}
